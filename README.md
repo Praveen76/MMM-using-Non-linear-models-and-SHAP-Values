@@ -35,7 +35,7 @@ To use the code in this repository, follow these steps:
 
 ## Usage
 
-Follow the examples in the `examples` directory to see how to use the MMM approach with non-linear models and interpret the results using SHAP values.
+Follow the attached Python notebook in this repository to see how to use the MMM approach with non-linear models and interpret the results using SHAP values.
 
 ```python
 # Example code snippet
